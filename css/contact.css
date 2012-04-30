@@ -1,0 +1,67 @@
+/* Design by http://www.dreamtemplate.com */
+
+
+
+
+.fbg p.contact_info {
+	line-height:1.8em;
+}
+.fbg p.contact_info a {
+	color:#356ea8;
+	text-decoration:underline;
+	font-weight:normal;
+}
+.fbg p.contact_info span {
+	display:block;
+	float:left;
+	width:74px;
+	font-weight:bold;
+}
+ol {
+	list-style:none;
+}
+ol li {
+	display:block;
+	clear:both;
+}
+ol li label {
+	display:block;
+	margin:0;
+	padding:16px 0 0 0;
+}
+ol li input.text {
+	width:480px;
+	border:1px solid #c0c0c0;
+	margin:0;
+	padding:5px 2px;
+	height:16px;
+	background-color:#fff;
+}
+ol li textarea {
+	width:480px;
+	border:1px solid #c0c0c0;
+	margin:0;
+	padding:2px;
+	background-color:#fff;
+}
+ol li .send {
+	margin:16px 0 0 0;
+}
+.searchform {
+	padding:12px 0 0;
+	float:right;
+}
+#formsearch {
+	margin:0;
+	padding:0;
+	width:auto;
+	height:30px;
+}
+#formsearch span {
+	display:block;
+	margin:0;
+	padding:0;
+	float:left;
+	background:url(../images/search_bg.gif) no-repeat left top;
+}
+

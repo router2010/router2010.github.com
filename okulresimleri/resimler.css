@@ -1,0 +1,46 @@
+div.img
+{
+	margin: 0px;
+	border: 1px solid #0000ff;
+	height: 300;
+	width: 300;
+	float: left;
+	clear: both;
+	padding: 1px;
+	z-index: auto;
+	overflow: visible;
+}	
+div.img1
+{
+	margin: 1px;
+	border: 1px solid #0000ff;
+	height: 300;
+	width: 300;
+	float: left;
+}
+div.img2
+{
+	margin: 1px;
+	border: 1px solid #0000ff;
+	height: 300;
+	width: 300;
+	float: left;
+ 
+}
+div.img3
+{
+	margin: 1px;
+	border: 1px solid #0000ff;
+	height: 300;
+	width: 300;
+	float: left;
+	position: relative;
+}
+div.desc
+{
+	width: 300px;
+	margin: 1px;
+	height: auto;
+	float: right;
+	position: relative;
+}
